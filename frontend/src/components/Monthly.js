@@ -2,13 +2,7 @@ import React from 'react';
 import {loadStripe} from '@stripe/stripe-js';
 
 
-const stripePromise = loadStripe('pk_test_XXXXXXXX8kCVHQLbZeXLrN4gx00Qs5Zc35n');
-
-// const SUCCESS = process.env.NODE_ENV === 'production'
-//   ? 'http://myapidomain.com'
-//   : 'http://localhost:3000';
-
-// const SUCCESS = 'http://localhost:7000';
+const stripePromise = loadStripe('pk_test_XXXXXXXX8kCVHXXbXLrN4gx00Qs5Zc35n');
 
 const SUCCESS = 'https://test-fion.herokuapp.com/';
 
