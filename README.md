@@ -1,2 +1,2 @@
-# fionitas-homepage-code
+# Fionita's Project - React, Node/Express, Stripe
  
